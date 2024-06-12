@@ -1,6 +1,5 @@
 # Omni-directional-Robot-Collision-Awareness
 FURP 2024 Summer
-# Omni-directional robot collision awareness
 
 Omni-directional robot refers to those robots that can move freely within a plane, and can move in any direction or angle without turning. The feature of these robots is that their wheels or drive systems are designed to allow the robot to move forward, backward, sideways, diagonally or even rotate.
 
